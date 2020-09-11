@@ -6,4 +6,4 @@ Code is written in C++ and we use the standard Gillespie Stochastic Simulation A
 
 Code requires installation of GSL random number generator. This can be obtained from https://www.gnu.org/software/gsl/ or code can be edited to use user desired random number generator.
 
-Animal movement data (CTS dataset) used in the article is not included as this contains personal information of individuals and is not available for open access.
+Animal movement data (CTS dataset) used in the article is not publicly available as it contains confidential information of individuals, e.g. names, addresses.
